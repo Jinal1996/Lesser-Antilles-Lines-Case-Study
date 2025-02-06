@@ -3,6 +3,10 @@
 A comprehensive case study analysis of **Lesser Antilles Lines (LAL)**, exploring pricing strategies, Nash equilibrium, and profitability in a competitive shipping market. This repository includes a detailed report, contribution matrix, payoff analysis, and supporting calculations to highlight key recommendations.
 
 ---
+## **Learning Objectives**
+The case study and ensuing class discussion aim to examine the circumstances in which predatory pricing is either a viable or ineffective strategy. Additionally, it provides an in-depth analysis of pricing dynamics within a duopoly market while introducing key economic concepts such as equilibrium pricing, price leadership, and the prisoner’s dilemma.
+
+---
 
 ## **Overview**
 Lesser Antilles Lines (LAL) is a **containerized shipping company** that provides transportation services between **Fort Lauderdale, Florida, and fifteen Caribbean islands**. Initially established as a **solo barge service in the 1960s**, the company expanded its operations, reaching **$50 million in revenue by the mid-1980s**. LAL gained a competitive edge in its market by offering **reliable, on-time deliveries** to regions that previously lacked high-quality shipping services.
@@ -86,7 +90,8 @@ To improve profitability, **LAL must shift its strategy away from price-cutting 
 
 ---
 
-## **License**
-This project is shared for academic and analytical purposes. Attribution to the author is required for any derivative works.
+## **License/Register**
+This project is shared for academic and analytical purposes. 
+https://hbsp.harvard.edu/product/UV0351-PDF-ENG
 
 ---

@@ -4,22 +4,46 @@ A comprehensive case study analysis of **Lesser Antilles Lines (LAL)**, explorin
 
 ---
 
+## **Overview**
+Lesser Antilles Lines (LAL) is a **containerized shipping company** that provides transportation services between **Fort Lauderdale, Florida, and fifteen Caribbean islands**. Initially established as a **solo barge service in the 1960s**, the company expanded its operations, reaching **$50 million in revenue by the mid-1980s**. LAL gained a competitive edge in its market by offering **reliable, on-time deliveries** to regions that previously lacked high-quality shipping services.
+
+During the **1980s, the shipping industry underwent significant transformation**, as **break-bulk shipping** became obsolete due to **containerization advancements**. This shift in industry standards enabled **LAL to grow** through **port infrastructure investments and operational efficiency improvements**. However, the industry also faced challenges, including **increasing market capacity, declining freight rates, and intensified competition**.
+
+San Huberto, a **small Caribbean island with a population of fewer than 40,000**, relies heavily on **international trade for imports** and depends on **tourism for economic growth**. LAL entered the **San Huberto shipping route in 1980**, competing against **Kronos Lines (KL)**, the established market leader. Despite appointing a knowledgeable **local agent**, LAL struggled to gain market share as **importers remained loyal to KL**. Market data showed that **KL retained 60% of the market share, even when pricing was identical**, as importers **preferred to split orders between both carriers to mitigate risks**.
+
+In an effort to attract more customers, **LAL implemented a price reduction strategy**, lowering its **freight rates**. However, due to the market's **low price elasticity**, the strategy **failed to significantly increase shipping activity**, placing financial strain on the company. While **LAL maintained a per-container rate of $841**, KL responded by **matching prices and charging $883 per container**, maintaining its competitive position through **twice-monthly rate adjustments**.
+
+To improve profitability, **LAL must shift its strategy away from price-cutting and focus on service quality**. Enhancing **customer service, optimizing logistics, and securing long-term contracts with importers** would allow the company to achieve revenue stability. By implementing **sustainable pricing strategies and maintaining reliable service**, LAL can strengthen its position in the **San Huberto market** while **minimizing the impact of competitive pricing pressures on profit margins**.
+
+---
+
 ## **Repository Contents**
 
-- **`LesserAntillesCaseStudy_JinalPatel.pdf`**  
+- **`Lesser Antilles Case Study`**  
+
   A detailed case study report analyzing LAL's pricing strategy, market dynamics, Nash equilibrium, and profitability.
 
-- **`LesserAntillesLines_JinalPatel.xlsx`**  
+  ![Lesser Antilles Lines Case Study](/LesserAntillesCaseStudy_JinalPatel.pdf)
+
+- **`Lesser Antilles Lines Calculations`**  
+
   The Excel sheet containing all the required calculations, including contribution and payoff matrices as specified in the report.
 
-- **`Data_JinalPatel.png`**  
-  Data provided in the question. Contribution matrix summarizing LAL and KL pricing scenarios and profit outcomes.  
+  ![Lesser Antilles Lines Calculations](/LesserAntillesLines_JinalPatel.xlsx)
 
-- **`LAL_KL_MarketShare.png`**  
-  Market share
+- **`Data_JinalPatel.png`**
+  
+  Data provided in the question. Contribution matrix summarizing LAL and KL pricing scenarios and profit outcomes.
+  
+  ![Data JinalPatel](/Data_JinalPatel.png)
 
-- **`LAL_KL_Contribution.png`**  
-  Contribution matrix
+- **`LAL and KL Market Share`**
+    
+  ![LAL and KL Market Share](/LAL_KL_MarketShare.png)
+
+- **`LAL KL Contribution`**
+  
+  ![LAL and KL Contribution Matrix](/LAL_KL_Contribution.png)
 ---
 
 ## **Results**
